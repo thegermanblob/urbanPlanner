@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #360606b0;
+}
+
+header h1 {
+    color: white;
+    font-size: 40px;
+    padding: 1rem;
+    text-align: center;
+}
+
+#chatLog {
+    width: 70%;
+    text-align: center;
+    height: 400px;
+    border: 1px solid #ccc;
+    color: #ffffff;
+    background-color: rgba(190, 187, 206, 0.599);
+    padding: 10px;
+    overflow-y: auto;
+    margin: 10px;
+}
+
+#userInput {
+    width: 60%;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #090909;
+    color: #000000;
+}
+
+#sendButton {
+    width: 10%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    margin: 2px;
+    text-align: center;
+}
