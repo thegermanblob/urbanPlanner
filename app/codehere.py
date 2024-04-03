@@ -4,7 +4,8 @@ import os
 
 client = AzureOpenAI(
     api_key=os.environ.get("AZURE_OPENAI_APIKEY"),
-    azure_endpoint= os.environ.get("AZURE_OPENAI_RESOURCE_URI")
+    azure_endpoint= os.environ.get("AZURE_OPENAI_RESOURCE_URI"),
+    api_version="2024-02-01"
 )
 
 development_name:str = os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME")
