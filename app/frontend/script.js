@@ -23,7 +23,7 @@ async function sendMessageToServer(userInput) {
     console.log('sendMessageToServer called with:', userInput);
     try {
         console.log('About to send fetch request');
-        const response = await fetch('http://127.0.0.1:3000/message', {
+        const response = await fetch('http://127.0.0.1:5000/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
