@@ -1,0 +1,28 @@
+Ruta,Paradas,Días de Operación,Hora de Operación,Hora Pico
+C1,"TU Sagrado Corazón, Avenida Ponce de León, Universidad de Puerto Rico (UPR), Avenida Barbosa, Río Piedras",Lunes a Viernes,6:00 am – 8:00 pm,30 minutos
+C22,"TU Sagrado Corazón, Avenida Ponce de León, Universidad de Puerto Rico (UPR), Avenida Barbosa, Avenida Las Américas, Centro Médico",Lunes a Viernes,6:00 am – 8:00 pm,30 minutos
+C35,"TU Sagrado Corazón, Avenida Ponce de León, Avenida Baldorioty de Castro, Centro de Convenciones",Lunes a Viernes,5:00 am – 8:00 pm,20 minutos
+C36,"TU Sagrado Corazón, Avenida Ponce de León, Avenida Baldorioty de Castro, Urbanización Llorens Torres",Lunes a Viernes,5:00 am – 8:00 pm,20 minutos
+C43,"Iturregui, Avenida Barbosa, Avenida Kennedy, Vista Mar",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+C44,"Carolina, Avenida Campo Rico, Avenida Los Filtros, Villa Carolina",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+C51,"Carolina, Avenida Campo Rico, Avenida 65 de Infantería, UPR Carolina",Lunes a Viernes,Sábado y días feriados,5:00 am – 8:00 pm,30 minutos
+D26,"TU Piñero, Trujillo Alto",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+D27,"TU Martínez Nadal, Guaynabo",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+D37,"Cataño, Levittown",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+D45,"TU Sagrado Corazón, Loíza",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,50 minutos
+D53,"Viejo San Juan, Aeropuerto Luis Muñoz Marín",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,35 minutos
+D91,"TU Bayamón, San Juanita",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+D92,"TU Bayamón, Magnolia",Lunes a Viernes,Sábado y días feriados,5:00 am – 9:00 pm,30 minutos
+E10,"TU Sagrado Corazón, Covadonga San Juan",Lunes a Viernes,5:00 am – 8:00 pm,10 minutos
+E20,"TU Bayamón, Toa Baja",Lunes a Viernes,5:00 am – 7:00 pm,15 minutos
+E40,"TU Piñero, Aeropuerto Luis Muñoz Marín",Lunes a Viernes,Sábado, domingo y días feriados,5:00 am – 8:00 pm,30 minutos
+T2,"TU Bayamón, TU Sagrado Corazón",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T3,"TU Sagrado Corazón, Viejo San Juan",Lunes a Viernes,Sábado, domingo y días feriados,5:00 am – 11:00 pm,10 minutos
+T4,"TU Martínez Nadal, Cataño",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T5,"Iturregui, Viejo San Juan",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T6,"Iturregui, Carolina Pueblo",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T7,"Carolina Pueblo, Cupey",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,25 minutos
+T8,"Martínez Nadal, Piñero",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T9,"Río Piedras, Viejo San Juan",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,25 minutos
+T21,"TU Sagrado Corazón, Viejo San Juan",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
+T41,"Iturregui, TU Piñero",Lunes a Viernes,Sábado,Días Feriados,5:00 am – 9:00 pm,20 minutos
